@@ -1,0 +1,15 @@
+C:\pemrograman\Tiket\Tiket\bin\Debug\net6.0\Tiket.exe
+C:\pemrograman\Tiket\Tiket\bin\Debug\net6.0\Tiket.deps.json
+C:\pemrograman\Tiket\Tiket\bin\Debug\net6.0\Tiket.runtimeconfig.json
+C:\pemrograman\Tiket\Tiket\bin\Debug\net6.0\Tiket.dll
+C:\pemrograman\Tiket\Tiket\bin\Debug\net6.0\Tiket.pdb
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.csproj.AssemblyReference.cache
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.GeneratedMSBuildEditorConfig.editorconfig
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.AssemblyInfoInputs.cache
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.AssemblyInfo.cs
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.csproj.CoreCompileInputs.cache
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.dll
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\refint\Tiket.dll
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.pdb
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\Tiket.genruntimeconfig.cache
+C:\pemrograman\Tiket\Tiket\obj\Debug\net6.0\ref\Tiket.dll
