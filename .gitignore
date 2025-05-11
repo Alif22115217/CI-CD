@@ -51,16 +51,8 @@ Saved Games/
 
 # Ignore system files
 NTUSER.DAT*
-*.regtrans-ms
 *.blf
-
-# Ignore directories
-Searches/
-
-# Ignore system files
-NTUSER.DAT*
 *.regtrans-ms
-*.blf
 
 # Ignore directories
 Searches/
@@ -72,4 +64,5 @@ Recent/
 SendTo/
 Start Menu/
 Templates/
+
 
