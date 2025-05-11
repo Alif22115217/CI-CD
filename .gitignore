@@ -48,3 +48,11 @@ Desktop/
 Documents/
 Downloads/
 Saved Games/
+
+# Ignore system files
+NTUSER.DAT*
+*.regtrans-ms
+*.blf
+
+# Ignore directories
+Searches/
