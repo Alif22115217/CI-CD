@@ -48,3 +48,9 @@ Desktop/
 Documents/
 Downloads/
 Saved Games/
+
+# Ignore NTUSER system files
+NTUSER.DAT*
+*.blf
+*.regtrans-ms
+
