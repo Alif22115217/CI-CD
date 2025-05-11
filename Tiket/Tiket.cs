@@ -16,7 +16,7 @@ namespace Tiket
 
         public void PrintDetails()
         {
-            Console.WriteLine("Detail Pemesanan Tiket:")
+            Console.WriteLine("Detail Pemesanan Tiket:");
             Console.WriteLine($"Nama: {Nama}");
             Console.WriteLine($"NIK: {NIK}");
             Console.WriteLine($"Nomor Telepon: {NomorTelepon}");
