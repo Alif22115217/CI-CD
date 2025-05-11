@@ -56,3 +56,12 @@ NTUSER.DAT*
 
 # Ignore directories
 Searches/
+
+# Ignore system files
+NTUSER.DAT*
+*.regtrans-ms
+*.blf
+
+# Ignore directories
+Searches/
+
