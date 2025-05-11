@@ -20,7 +20,7 @@ jobs:
         dotnet-version: '7.0.x'
 
     - name: 📦 Restore dependencies
-      run: dotnet restore Tikettiket.sln
+      run: dotnet restore Tiket.sln
 
     - name: 🏗 Build solution
       run: dotnet build Tiket.sln --configuration Release --no-restore
