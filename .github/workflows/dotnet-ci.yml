@@ -2,9 +2,9 @@ name: .NET Build and Test
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build-and-test:
@@ -20,7 +20,7 @@ jobs:
         dotnet-version: '7.0.x'
 
     - name: 📦 Restore dependencies
-      run: dotnet restore Tiket.sln
+      run: dotnet restore Tikettiket.sln
 
     - name: 🏗 Build solution
       run: dotnet build Tiket.sln --configuration Release --no-restore
