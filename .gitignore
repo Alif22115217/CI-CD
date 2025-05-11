@@ -1,0 +1,31 @@
+# Ignore IDE and system files
+.VirtualBox/
+.anaconda/
+.bash_history
+.conda/
+.condarc
+.continuum/
+.dotnet/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.lesshst
+.matplotlib/
+.minikube/
+.nuget/
+.packettracer
+.quokka/
+.streamlit/
+.th-client/
+.vs-kubernetes/
+.vscode/
+AppData/
+OneDrive/
+Pictures/
+Videos/
+Desktop/
+Documents/
+Downloads/
+Saved Games/
