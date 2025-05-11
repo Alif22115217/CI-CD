@@ -65,3 +65,11 @@ NTUSER.DAT*
 # Ignore directories
 Searches/
 
+# Ignore Windows system directories
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
