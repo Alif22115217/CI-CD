@@ -49,8 +49,20 @@ Documents/
 Downloads/
 Saved Games/
 
-# Ignore NTUSER system files
+# Ignore system files
 NTUSER.DAT*
 *.blf
 *.regtrans-ms
+
+# Ignore directories
+Searches/
+
+# Ignore Windows system directories
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
 
