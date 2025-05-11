@@ -13,7 +13,7 @@ namespace Tiket
             Console.WriteLine("Selamat datang di Ferizy");
             Console.WriteLine("Silakan masukkan data anda untuk pemesanan tiket:");
 
-            Tiket tiket = new Tiket()
+            Tiket tiket = new Tiket();
 
             Console.Write("Nama: ");
             tiket.Nama = Console.ReadLine();
