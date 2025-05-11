@@ -25,6 +25,25 @@ AppData/
 OneDrive/
 Pictures/
 Videos/
+# Ignore system and user-specific files
+*.log
+*.bak
+*.swp
+
+# Ignore directories
+Favorites/
+Links/
+Music/
+Proyek Data Mining/
+VirtualBox VMs/
+anaconda3/
+
+# Ignore NTUSER and other system files
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
 Desktop/
 Documents/
 Downloads/
